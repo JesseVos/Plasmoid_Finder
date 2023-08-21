@@ -1,2 +1,2 @@
 # Plasmoid_Finder
-A plasmoid identification algorith, or rather a `blob' identifcation algorithm
+A plasmoid identification algorithm, or rather a `blob' identifcation algorithm, that is able to detect elliptical structure in any provided map. 
