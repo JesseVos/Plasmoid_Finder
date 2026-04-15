@@ -1,2 +1,4 @@
 # Plasmoid_Finder
 A plasmoid identification algorithm, or rather a `blob' identifcation algorithm, that is able to detect elliptical structure in any provided map. The algorithm will be made availabe after a clean-up and potential upgrade (from python3 to C or Fortran). If you would like to get access before that time, please contact jt [dot] vos [at] astro [dot] ru [dot] nl. A pre-print of accompanying scienctific paper can be found on https://arxiv.org/abs/2309.03267 .
+
+After various updates and tweaks, I will share the program in the next few weeks.
